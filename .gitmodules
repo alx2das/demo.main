@@ -1,0 +1,4 @@
+[submodule "remote"]
+	path = remote
+	url = git@github.com:alx2das/demo.remote.git
+	branch = master
